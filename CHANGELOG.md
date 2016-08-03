@@ -1,5 +1,5 @@
 ### Changelog ###
-
+实现整个屏幕转为为图片。然后返回canvas回调。文件比较大
 v0.5.0-beta4 - 23.1.2016
  * Fix logger requiring access to window object
  * Derequire browserify build
